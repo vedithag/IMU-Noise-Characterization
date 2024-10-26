@@ -1,4 +1,4 @@
-# IMU-Noise-Characterization
+# IMU Noise Characterization
 
 This project involves the characterization of IMU (Inertial Measurement Unit) noise using Allan variance. The Allan variance is a statistical tool used to analyze and quantify the noise characteristics of accelerometer and gyroscope measurements. This repository contains the code, data, and analysis results from the study.
 
